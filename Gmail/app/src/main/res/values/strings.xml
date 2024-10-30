@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gmail</string>
+    <string name="inbox">Inbox</string>
+    <string name="touch_a_sender_image_to_select_nthat_conversation">Touch a sender image to select\nthat conversation</string>
+    <string name="todo">TODO</string>
+    <string name="description">Description</string>
+</resources>
